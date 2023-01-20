@@ -7,4 +7,5 @@ Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-## 🚀 Let's code! 🚀
+
+Para a conclusão de um curso ofertado na plataforma da DIO, foi proposto o clone da tela principal da rede social Instagram, com o intuito de por em prática tudo que vimos no curso de formação nas ferramentas HTML e CSS.
